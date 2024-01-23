@@ -1,5 +1,5 @@
 # Memory-Augmented Reinforcement Learning In 3D Space
-**(Champion of the 2023 National Tsing Hua University Computer Science Department's Project Contest among 94 works!)**
+(2023 National Tsing Hua University CS Department Project Contest **Champion** out of 94 entries!!!)
 
 In this project, we propose a new episodic memory framework to enhance the ability of the reinforcement learning model to acquire spatial information in a partially observed 3D environment, thereby improving the model's capability to execute tasks within such an environment.
 
