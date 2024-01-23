@@ -1,5 +1,5 @@
 # Memory-Augmented Reinforcement Learning In 3D Space
-**(This project was the champion of the 2023 National Tsing Hua University Computer Science Department's Project Contest!)**
+**(Champion of the 2023 National Tsing Hua University Computer Science Department's Project Contest among 94 works!)**
 
 In this project, we propose a new episodic memory framework to enhance the ability of the reinforcement learning model to acquire spatial information in a partially observed 3D environment, thereby improving the model's capability to execute tasks within such an environment.
 
@@ -75,6 +75,6 @@ python run_emdqn.py
 
 ## Testing
 ```shell
-# Test our proposed reinforcement learning model in 100 different maze benchmark.
+# Test our proposed reinforcement learning model in 100 different maze benchmarks.
 python run_emdqn.py --test --exp_name {exp name after training} --step {checkpoint step}
 ```
